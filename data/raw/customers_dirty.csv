@@ -1,0 +1,125 @@
+customer_id,full_name,email,phone,signup_date,city,age,status
+1, customer 1 , USER1@MAIL.COM ,+91-9800000001,2024-05-19,delhi,-1,INACTIVE
+2,,,9800000002,2024-02-28,Bengaluru,-1,active
+3,,,+91-9800000003,2024-11-02,Delhi,22,Active
+4, customer 4 , USER4@MAIL.COM ,,2024-03-02,Delhi,130,INACTIVE
+5,, USER5@MAIL.COM ,,,delhi,22,INACTIVE
+6,,,,2024-08-01,Bengaluru,25,INACTIVE
+,, USER7@MAIL.COM ,,2024-07-04,Delhi,-1,active
+8,,user8@mail.com,,2025-01-16,Bengaluru,37, inactive 
+9,Customer 9,user9@mail.com,9800000009,2024-06-27,Bengaluru,31,Active
+10,, USER10@MAIL.COM ,9800000010,2025-01-24,,25,Active
+11,,,,2024-10-16,,, inactive 
+12,Customer 12,,,2025-02-11,Bengaluru,22, inactive 
+13,,,,bad-date,Bengaluru,25,active
+14,,,+91-9800000014,2025-02-18,,37, inactive 
+15, customer 15 ,user15@mail.com,,2025-03-04,Bengaluru,25,
+16,Customer 16, USER16@MAIL.COM ,,2024-09-25,,31, inactive 
+17,,,,2024-12-13,,22, inactive 
+18,Customer 18,,,2025-03-12,,31, inactive 
+19, customer 19 ,,,2024-12-23,,-1,Active
+20,Customer 20,,,2024-06-17,Mumbai,25,INACTIVE
+21,Customer 21,,,2024-04-19,Bengaluru,130,Active
+22, customer 22 , USER22@MAIL.COM ,+91-9800000022,2025-02-07,Delhi,22, inactive 
+23, customer 23 ,,9800000023,2025-03-01,,31,INACTIVE
+24,, USER24@MAIL.COM ,,2025-01-20,,130,Active
+25,,,9800000025,2024-10-19,delhi,130, inactive 
+26,, USER26@MAIL.COM ,9800000026,2024-03-11,Bengaluru,22,INACTIVE
+27,Customer 27,user27@mail.com,,2024-03-23,Bengaluru,130,
+28,,user28@mail.com,9800000028,2024-06-27,Delhi,-1,active
+29,, USER29@MAIL.COM ,,2024-07-10,Mumbai,22, inactive 
+30,, USER30@MAIL.COM ,9800000030,bad-date,,31,INACTIVE
+31,Customer 31,user31@mail.com,+91-9800000031,2025-03-03,Mumbai,-1,active
+32, customer 32 ,,+91-9800000032,bad-date,,130,active
+33,,user33@mail.com,9800000033,2024-05-29,delhi,22,
+34,, USER34@MAIL.COM ,+91-9800000034,2024-07-03,Delhi,22,INACTIVE
+35,Customer 35,,,2024-01-09,Bengaluru,25, inactive 
+36,Customer 36,,9800000036,bad-date,,31,INACTIVE
+37,, USER37@MAIL.COM ,9800000037,bad-date,Delhi,45,Active
+38, customer 38 ,user38@mail.com,,2024-09-20,delhi,130, inactive 
+, customer 39 ,,,2024-01-25,,, inactive 
+40,,,,2024-07-16,Bengaluru,31,INACTIVE
+41,,,+91-9800000041,2024-02-10,delhi,31,
+42,Customer 42,user42@mail.com,,2024-06-05,delhi,-1,Active
+43,,,+91-9800000043,2024-06-29,,-1, inactive 
+44,Customer 44,user44@mail.com,,2025-02-14,,31,active
+45,,user45@mail.com,9800000045,bad-date,Bengaluru,-1,
+, customer 46 ,,,2025-01-25,Delhi,31,
+47,,,9800000047,2024-01-14,,31,INACTIVE
+48,Customer 48,,,2024-04-19,,45,INACTIVE
+49, customer 49 ,user49@mail.com,,2024-12-31,delhi,25, inactive 
+50,Customer 50,,,2024-12-30,,31, inactive 
+51,Customer 51, USER51@MAIL.COM ,9800000051,2024-09-09,Delhi,,
+52,, USER52@MAIL.COM ,+91-9800000052,bad-date,,130,
+53,,user53@mail.com,9800000053,2024-11-24,Delhi,130,INACTIVE
+54,, USER54@MAIL.COM ,9800000054,2024-03-07,delhi,22,active
+55,, USER55@MAIL.COM ,9800000055,2024-12-29,Mumbai,,
+56,Customer 56,,9800000056,2024-10-09,Bengaluru,31, inactive 
+57,Customer 57, USER57@MAIL.COM ,9800000057,2024-11-15,,,
+58,Customer 58,user58@mail.com,+91-9800000058,2025-01-29,,45,Active
+59,,user59@mail.com,,2024-10-06,Bengaluru,45,INACTIVE
+60,,,,,Mumbai,130,INACTIVE
+61, customer 61 ,,9800000061,2025-01-02,Bengaluru,,INACTIVE
+62,,user62@mail.com,,2024-03-03,Bengaluru,130,Active
+63,Customer 63,,,2024-08-02,Mumbai,31, inactive 
+64,, USER64@MAIL.COM ,9800000064,2024-09-20,delhi,130, inactive 
+65,Customer 65,,,2024-04-20,,,active
+66,,,,2025-03-09,Delhi,-1,Active
+67,,,,,,37, inactive 
+68,Customer 68,,,2024-05-23,,25,Active
+69,,,,2024-07-06,Mumbai,37,
+70,Customer 70,user70@mail.com,+91-9800000070,2024-06-19,delhi,130,Active
+71, customer 71 ,,,2024-11-11,,45,
+72,,,,2024-07-07,Bengaluru,25,INACTIVE
+73,Customer 73,,,2025-02-04,,37,active
+74, customer 74 ,,9800000074,2024-05-04,Delhi,25,Active
+,,,9800000075,2024-04-14,delhi,130,active
+76, customer 76 ,,,2024-06-09,Mumbai,130,
+77,,,,2024-05-06,Bengaluru,45,Active
+78,,,9800000078,2024-09-07,Bengaluru,130, inactive 
+79,,,+91-9800000079,2024-10-05,delhi,-1, inactive 
+80, customer 80 ,,+91-9800000080,2024-12-31,Delhi,,INACTIVE
+81,, USER81@MAIL.COM ,9800000081,2024-05-18,,45,Active
+82, customer 82 , USER82@MAIL.COM ,+91-9800000082,2024-09-28,Mumbai,37,active
+83,,,+91-9800000083,2024-03-11,Delhi,31,INACTIVE
+84,,,9800000084,2024-05-27,Bengaluru,45,active
+85,Customer 85, USER85@MAIL.COM ,+91-9800000085,2024-03-30,delhi,31,active
+86,,,9800000086,2025-03-22,Bengaluru,22,active
+87,Customer 87,,,2024-11-24,,130,Active
+88,,,9800000088,2024-06-18,Mumbai,130, inactive 
+89,Customer 89,,,2025-01-22,Mumbai,31,
+90,,,,2024-12-08,Delhi,31,Active
+91, customer 91 ,user91@mail.com,,2024-08-16,Bengaluru,, inactive 
+92,Customer 92,,,2024-02-01,,25,INACTIVE
+93,,,+91-9800000093,2024-05-31,Bengaluru,37,Active
+94,, USER94@MAIL.COM ,,2024-11-06,Bengaluru,-1,
+95, customer 95 , USER95@MAIL.COM ,+91-9800000095,2024-09-27,,,active
+96,Customer 96,user96@mail.com,9800000096,2024-03-17,Mumbai,,
+97, customer 97 ,,+91-9800000097,2024-08-16,Delhi,130,Active
+98,,user98@mail.com,,2024-06-06,,22,INACTIVE
+99,Customer 99, USER99@MAIL.COM ,+91-9800000099,bad-date,,25,
+100,Customer 100,,+91-9800000100,2024-04-02,Mumbai,-1, inactive 
+101,,,,2024-12-15,,31, inactive 
+102,, USER102@MAIL.COM ,9800000102,2025-01-22,Delhi,45,INACTIVE
+103,,,9800000103,2024-06-26,Mumbai,45,Active
+104,Customer 104,user104@mail.com,,2024-01-09,Mumbai,37,active
+105,Customer 105,,+91-9800000105,2024-01-23,delhi,130,Active
+106,Customer 106, USER106@MAIL.COM ,,2025-01-09,,,
+107,, USER107@MAIL.COM ,,2024-12-04,,37,INACTIVE
+108,Customer 108, USER108@MAIL.COM ,,2024-01-25,Bengaluru,-1,
+109,,,9800000109,2024-04-04,,130,Active
+110,, USER110@MAIL.COM ,,2024-10-14,delhi,-1,
+111,, USER111@MAIL.COM ,,2024-11-27,Delhi,130, inactive 
+112, customer 112 ,user112@mail.com,,2024-11-05,,22,active
+113, customer 113 ,,9800000113,2024-06-19,Bengaluru,22,Active
+114,Customer 114,,9800000114,2024-12-26,Mumbai,-1,Active
+115,,,,2024-07-02,Bengaluru,45, inactive 
+116,,,+91-9800000116,2025-01-04,delhi,,Active
+117,,user117@mail.com,9800000117,2024-01-09,Bengaluru,-1, inactive 
+118,, USER118@MAIL.COM ,,2024-05-05,delhi,, inactive 
+119,,,,2025-02-11,Bengaluru,31,Active
+120,, USER120@MAIL.COM ,+91-9800000120,2025-03-05,Delhi,22,active
+1, customer 1 , USER1@MAIL.COM ,+91-9800000001,2024-05-19,delhi,-1,INACTIVE
+2,,,9800000002,2024-02-28,Bengaluru,-1,active
+3,,,+91-9800000003,2024-11-02,Delhi,22,Active
+4, customer 4 , USER4@MAIL.COM ,,2024-03-02,Delhi,130,INACTIVE
