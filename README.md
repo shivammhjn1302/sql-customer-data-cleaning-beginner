@@ -1,16 +1,18 @@
-# SQL Customer Data Cleaning — Beginner Project
+# Customer Records SQL Cleaning Room
 
-A beginner SQL project for cleaning customer profile data using SQLite.
+A SQLite data-cleaning project focused on turning inconsistent customer profile records into a reliable customer table for analysis and reporting.
 
-## Skills Demonstrated
+The theme is **CRM data hygiene** — practical SQL work for teams that need clean customer records before segmentation, retention analysis, or BI reporting.
+
+## What this project shows
 
 - Creating raw and cleaned tables
-- Using `TRIM`, `LOWER`, `CASE`, `CAST`, `DATE`
+- Using `TRIM`, `LOWER`, `CASE`, `CAST`, and date handling
 - Removing duplicate rows
 - Validating IDs, dates, age, and status fields
 - Running data quality checks
 
-## Run
+## Run locally
 
 ```bash
 pip install -r requirements.txt
@@ -24,6 +26,6 @@ python scripts/build_sqlite_database.py
 - `sql/03_quality_checks.sql` — validation queries
 - `data/cleaned/customers_cleaned.csv` — cleaned output
 
-## Portfolio Summary
+## Portfolio summary
 
-Used SQL to clean customer records, standardize text fields, validate date and age values, and produce a clean customer table ready for BI reporting.
+Used SQL to clean customer records, standardize text fields, validate dates and ages, and produce a customer table ready for BI reporting.
